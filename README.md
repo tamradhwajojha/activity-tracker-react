@@ -50,3 +50,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone [https://github.com/tamradhwajojha/activity-tracker-react.git](https://github.com/tamradhwajojha/activity-tracker-react.git)
 >>>>>>> 7a93370bf45983c8c279a2cf94c012e9f4c68cf0
+
+
+// making changes as streak
