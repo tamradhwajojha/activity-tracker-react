@@ -1,4 +1,4 @@
-This is made by Tamradhwaj Ojha
+This is made by Tamradhwaj Ojha Ji
 <<<<<<< HEAD
 # React + Vite
 
