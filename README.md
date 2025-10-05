@@ -33,7 +33,7 @@ A dynamic and personalized web application to track and visualize competitive pr
 ![Dashboard Preview](https://i.imgur.co
 m/GzB9o9W.png)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 - **Frontend:** React.js, Vite
 - **Styling:** Tailwind CSS
