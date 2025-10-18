@@ -7,7 +7,7 @@ import profilePhoto from '../Assests/profile-photo.jpg'; // Adjust filename if n
 const AboutPage = () => {
     // --- Your Details ---
     const userDetails = {
-        name: "Tamradhwaj Ojha",
+        name: "Tamradhwaj Ojha Ji",
         photoUrl: profilePhoto,
         bio: "I’m a 4th-year B.Tech student majoring in Computer Science and Engineering with a specialization in Artificial Intelligence. I'm deeply passionate about full-stack development and enjoy turning innovative ideas into impactful web applications. My interests lie in solving real-world problems using technology, and I’m particularly drawn to the MERN stack for its flexibility and scalability. I also actively engage in competitive programming and love sharpening my problem-solving skills through challenges on platforms like LeetCode.",
         skills: [
